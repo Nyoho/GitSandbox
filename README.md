@@ -5,4 +5,6 @@ This is a sandbox repository to study Git
 
 sandbox は直訳すると砂箱である。
 
+## 開発情報
 
+開発ブランチでこのようなことが!
