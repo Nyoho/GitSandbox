@@ -1,1 +1,5 @@
 an org-mode file
+
+- string 1
+- string 2
+- string iii
